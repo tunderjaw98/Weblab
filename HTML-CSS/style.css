@@ -1,0 +1,49 @@
+#head{
+	width:100%;
+	height:300px;
+}
+#menu{
+	width:20%;
+	height:700px;
+	float:left;
+}
+#body{
+	width:80%;
+	height:700px;
+	float:left;
+}
+#footer{
+	width:100%;
+	background-color:gray;
+	color:white;
+	float:left;
+	height:120px;
+	text-align:center;
+	padding-top:30px;
+	border-radius:10px;
+}
+#img1{
+	border-radius:10px;
+	width:100%;
+	height:100%;
+	
+	
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+a h3{
+	color:blue;
+}
+td{
+	text-align:center;
+}
+input{
+	border-radius:5px;
+}
+input[type="submit"] {
+    border-radius:10px
+}
